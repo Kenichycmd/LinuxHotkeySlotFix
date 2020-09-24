@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ubuntuslotfix",
+  "name": "Linux Hotkey Slot Fix",
+  "description": "A fix for hotkeying to 2 or 6. Made specifically for Ubuntu.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://kenichy.dev/",
+  "updateUrl": "",
+  "authorList": ["Kenichycmd"],
+  "credits": "https://twitter.com/kenichycmd",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
