@@ -9,6 +9,6 @@ A fix for hotkeying to 2 or 6. Made specifically for Ubuntu. [And yes I am late]
 | 1.12.2            | 1.0         |
 
 ## Why should you use it?
-It might be useful when you want to Shift and Hotkey to your Slots. [Its a Lwjgl 2 issue.]
+It might be useful when you want to Shift and Hotkey to your Item Slots. [Its a Lwjgl 2 issue.]
 
 This bug was fixed in 1.13 and later.
