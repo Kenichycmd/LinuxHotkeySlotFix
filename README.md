@@ -1,4 +1,6 @@
 # Linux Hotkey Slot Fix
+MOVED TO LINUXFIX https://github.com/Kenichycmd/LinuxFix!
+
 A fix for hotkeying to 2 or 6. Made specifically for Ubuntu. [And yes I am late]
 
 | Minecraft Version | Mod Version |
@@ -11,4 +13,4 @@ A fix for hotkeying to 2 or 6. Made specifically for Ubuntu. [And yes I am late]
 ## Why should you use it?
 It might be useful when you want to Shift and Hotkey to your Item Slots. [Its a Lwjgl 2 issue.]
 
-This bug was fixed in 1.13 and later.
+This bug was fixed in 1.13 and later [Lwjgl 3+].
